@@ -3,7 +3,7 @@
 <!--
 **KubaKijak/KubaKijak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Hello my name is Kuba
+Hello my name is Kuba.he / him 
 I like turtles 
 
 -->
